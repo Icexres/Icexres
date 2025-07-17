@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that helps me learn.
 - 📫 How to reach me instagram:@icexrestha , email:kipuaayush@gmail.com
 - 😄 Pronouns: -
-- ⚡ Fun fact: along with computer studies i am heavily interested in vehicles, art, UI design and a video games.
+- ⚡ Fun fact: along with computer studies i am heavily interested in vehicles, art, UI design and video games.
 
 <!---
 Icexres/Icexres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
